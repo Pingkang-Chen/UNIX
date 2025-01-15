@@ -1,0 +1,12 @@
+/Users/chenpingkang/UNIX/CMakeFiles/wav-write.dir
+/Users/chenpingkang/UNIX/CMakeFiles/wav-read.dir
+/Users/chenpingkang/UNIX/CMakeFiles/sine-sweep.dir
+/Users/chenpingkang/UNIX/CMakeFiles/sawtooth.dir
+/Users/chenpingkang/UNIX/CMakeFiles/sawtooth-sweep.dir
+/Users/chenpingkang/UNIX/CMakeFiles/square.dir
+/Users/chenpingkang/UNIX/CMakeFiles/square-sweep.dir
+/Users/chenpingkang/UNIX/CMakeFiles/triangle.dir
+/Users/chenpingkang/UNIX/CMakeFiles/triangle-sweep.dir
+/Users/chenpingkang/UNIX/CMakeFiles/impulse.dir
+/Users/chenpingkang/UNIX/CMakeFiles/edit_cache.dir
+/Users/chenpingkang/UNIX/CMakeFiles/rebuild_cache.dir
