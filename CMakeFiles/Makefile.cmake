@@ -66,4 +66,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/triangle.dir/DependInfo.cmake"
   "CMakeFiles/triangle-sweep.dir/DependInfo.cmake"
   "CMakeFiles/impulse.dir/DependInfo.cmake"
+  "CMakeFiles/impulse-sweep.dir/DependInfo.cmake"
   )

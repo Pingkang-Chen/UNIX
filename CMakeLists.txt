@@ -15,6 +15,7 @@ add_executable(square-sweep square-sweep.cpp)
 add_executable(triangle triangle.cpp)
 add_executable(triangle-sweep triangle-sweep.cpp)
 add_executable(impulse impulse.cpp)
+add_executable(impulse-sweep impulse-sweep.cpp)
 
 
 

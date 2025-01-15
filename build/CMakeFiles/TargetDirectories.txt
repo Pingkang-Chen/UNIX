@@ -8,5 +8,6 @@
 /Users/chenpingkang/UNIX/build/CMakeFiles/triangle.dir
 /Users/chenpingkang/UNIX/build/CMakeFiles/triangle-sweep.dir
 /Users/chenpingkang/UNIX/build/CMakeFiles/impulse.dir
+/Users/chenpingkang/UNIX/build/CMakeFiles/impulse-sweep.dir
 /Users/chenpingkang/UNIX/build/CMakeFiles/edit_cache.dir
 /Users/chenpingkang/UNIX/build/CMakeFiles/rebuild_cache.dir
